@@ -1,9 +1,3 @@
-Perfect—this is exactly the kind of content that turns into a strong GitHub README. I’ll convert your notes into a **clean, professional `README.md`** (structured, corrected, and GitHub-friendly).
-
-You can copy-paste this directly 👇
-
----
-
 # 🚀 Kubernetes Simplified
 
 A beginner-friendly guide to understanding Kubernetes fundamentals, architecture, and real-world usage.
